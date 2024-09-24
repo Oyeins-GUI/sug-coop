@@ -18,10 +18,8 @@ export default function Main() {
                            <span className="text-blue-600">Online</span>
                         </h3>
                         <p className="max-w-[400px] text-center md:text-left">
-                           By giving 20% of every NFT sold to an orphanage, this
-                           project is proving that creativity and compassion can
-                           coexist, and that even the smallest acts of kindness
-                           can make a big impact in the world.
+                           Our services are totally online. You can contact us
+                           at anytime. Your money is safe with us..
                         </p>
                      </div>
                   </div>
@@ -38,10 +36,10 @@ export default function Main() {
                            <span className="text-blue-600">Regulated</span>
                         </h3>
                         <p className="max-w-[400px] text-center md:text-left">
-                           By giving 20% of every NFT sold to an orphanage, this
-                           project is proving that creativity and compassion can
-                           coexist, and that even the smallest acts of kindness
-                           can make a big impact in the world.
+                           We are registered and are regulated by authorities
+                           such as the ministry of cooperate affairs with all
+                           laws and regulations binding us. See registration
+                           certificate.
                         </p>
                      </div>
                   </div>
