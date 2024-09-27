@@ -1,6 +1,6 @@
 export default function HeroSection() {
    return (
-      <div className="max-w-5xl mx-auto px-5 xl:px-0 text-white">
+      <div className="max-w-5xl mx-auto px-5 xl:px-0 text-white pt-5">
          <p className="text-[24px] mb-2 mt-2 font-semibold">
             Would you like to join us?
          </p>

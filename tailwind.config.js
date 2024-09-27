@@ -11,6 +11,9 @@ export default {
             from: "#000000",
             to: "#4E4E4E",
          },
+         gridTemplateRows: {
+            "even-layout": "auto 1fr auto",
+         },
       },
    },
    plugins: [],
