@@ -18,7 +18,10 @@ export default function ContactUs() {
                         University, Wilberforce Island, Bayelsa State, Nigeria
                      </p> */}
                   </div>
-                  <form className="bg-slate-800 p-6 rounded-lg mb-4 md:mb-0">
+                  <form
+                     onSubmit={(e) => e.preventDefault()}
+                     className="bg-slate-800 p-6 rounded-lg mb-4 md:mb-0"
+                  >
                      <h3 className="mb-4 text-white font-bold text-lg">
                         ...have an inquiry? Leave a message with us.
                      </h3>
