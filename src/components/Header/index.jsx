@@ -5,7 +5,7 @@ export default function Header() {
       <header className="text-white">
          <div className="max-w-6xl mx-auto flex justify-between items-center px-5 xl:px-0 py-2">
             <a href="/">
-               <img src="/logo.png" className="w-20" alt="coop logo" />
+               <img src="/logo.png" className="w-16" alt="coop logo" />
             </a>
             <nav className="flex justify-center items-center gap-10">
                <li className="list-none">

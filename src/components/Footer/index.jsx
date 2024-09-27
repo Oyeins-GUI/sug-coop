@@ -4,7 +4,7 @@ export default function Footer() {
    return (
       <footer className="bg-[#312F2F] text-white">
          <div className="max-w-4xl mx-auto px-5 xl:px-0">
-            <div className="pt-8 flex justify-between flex-col md:flex-row items-center">
+            <div className="pt-2 flex justify-between flex-col md:flex-row items-center">
                <div>
                   <div className="flex items-center gap-2">
                      <h3 className="text-center md:text-left">Follow Us</h3>

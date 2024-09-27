@@ -6,6 +6,7 @@ export default {
          backgroundImage: {
             "hero-img": "url('/hero-img.svg')",
             "choose-us-bg": "url('/choose-us-bg.svg')",
+            "contact-us-img": "url('/contact-us.jpg')",
          },
          colors: {
             from: "#000000",

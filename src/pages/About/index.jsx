@@ -7,11 +7,11 @@ export default function About() {
          <div className="bg-hero-img bg-cover">
             <Header />
          </div>
-         <main className="max-w-4xl mx-auto mt-8">
+         <main className="max-w-4xl mx-auto mt-8 px-5 xl:px-0">
             <h3 className="text-center font-bold text-3xl mb-2">
                Know More About Us
             </h3>
-            <div className="flex flex-col gap-4 text-lg">
+            <div className="flex flex-col gap-4 text-lg mb-3 md:mb-0">
                <p>
                   Welcome to the Student Union Multipurpose Cooperative Society,
                   proudly situated at Niger Delta University in Amassoma,
