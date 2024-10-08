@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 export default function ChooseUs() {
    return (
       <div className="mt-14">
@@ -28,7 +30,14 @@ export default function ChooseUs() {
                      <p className="max-w-[400px] text-center md:text-left">
                         We are registered and are regulated by authorities such
                         as the ministry of cooperate affairs with all laws and
-                        regulations binding us. See registration certificate.
+                        regulations binding us.{" "}
+                        <Link
+                           to="/registration"
+                           className="text-blue-800 underline"
+                        >
+                           See registration certificate
+                        </Link>
+                        .
                      </p>
                   </div>
                </div>

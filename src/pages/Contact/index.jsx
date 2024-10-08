@@ -13,10 +13,6 @@ export default function ContactUs() {
                   <div className="flex flex-col gap-2 md:gap-4 mb-2 md:mb-0 text-center">
                      <h1 className="text-3xl font-bold">Contact Us Today!</h1>
                      <p className="text-2xl">Call Us: +2349133758980</p>
-                     {/* <p className="text-xl">
-                        Address: ETF Building, Glory Land Campus, Niger Delta
-                        University, Wilberforce Island, Bayelsa State, Nigeria
-                     </p> */}
                   </div>
                   <form
                      onSubmit={(e) => e.preventDefault()}
